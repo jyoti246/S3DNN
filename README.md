@@ -6,7 +6,7 @@ Add 'https://drive.google.com/drive/folders/19c_twHLSY37kucu4ece392ELkxryJLw4?us
 
 Run the colabs in order
 ## Part1:
-This notebook demonstrates the CNN forward passes implemented over Alexnet.
+This notebook demonstrates the CNN forward and backward passes implemented over Alexnet.
 
 ## Part2:
 This notebook demonstrates baseline scheduling policy using CUDA streams to concurrently schedule multiple DNN forward pass pipelines.
